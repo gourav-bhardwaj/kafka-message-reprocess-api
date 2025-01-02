@@ -27,7 +27,7 @@
 
 ## Steps to start the application ##
 
-- Configure the created topic in application.properties
+- Configure the created topic in application.yaml
 - Now start the application
 
 ``` sh
