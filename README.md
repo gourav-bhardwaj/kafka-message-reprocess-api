@@ -1,6 +1,6 @@
-#kafka-message-reprocess-api#
+# kafka-message-reprocess-api #
 
-##Prequisite##
+## Prequisite ##
 
 - Install kafka cluster
 - Start the zookeeper and kafka cluster using below commands:
@@ -12,6 +12,6 @@
 - Create the topic using below commands:
   
 
-##Steps to start the application##
+## Steps to start the application ##
 
 
