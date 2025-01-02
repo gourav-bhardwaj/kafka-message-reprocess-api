@@ -1,6 +1,6 @@
 # kafka-message-reprocess-api #
 
-## Prequisite ##
+## Prerequisites ##
 
 - Install kafka cluster
 - Start the zookeeper and kafka cluster using below commands:
